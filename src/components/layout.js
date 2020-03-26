@@ -5,6 +5,7 @@ import Container from '@material-ui/core/Container'
 import Image from '../components/image'
 import Typography from '@material-ui/core/Typography'
 import Header from './header'
+import 'typeface-libre-baskerville'
 
 const Layout = ({ children }) => {
   return (
